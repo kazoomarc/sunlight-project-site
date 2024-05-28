@@ -4,7 +4,7 @@ export default {
   project: {
     link: 'https://github.com/kazoomarc/sunlight-project-site',
   },
-  footer: { text: 'footer here' },
+  footer: { text: '©2024 Sunlight Project' },
   docsRepositoryBase:
     'https://github.com/kazoomarc/sunlight-project-site/tree/main/pages',
 
