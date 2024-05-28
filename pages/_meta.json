@@ -1,5 +1,11 @@
 {
-  "index": { "title": "Home", "type": "page" },
+  "index": {
+    "title": "Home",
+    "type": "page",
+    "theme": {
+      "layout": "full"
+    }
+  },
   "education": { "title": "Education", "type": "page" },
   "about": { "title": "About", "type": "page" },
   "contact": { "title": "Contact", "type": "page" },
@@ -8,5 +14,9 @@
     "display": "hidden",
     "type": "page"
   },
-  "mathematics": { "title": "Mathematics", "display": "hidden", "type": "page" }
+  "mathematics": {
+    "title": "Mathematics",
+    "display": "hidden",
+    "type": "page"
+  }
 }

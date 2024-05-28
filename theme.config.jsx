@@ -5,5 +5,8 @@ export default {
     link: 'https://github.com/kazoomarc/sunlight-project-site',
   },
   footer: { text: 'footer here' },
+  docsRepositoryBase:
+    'https://github.com/kazoomarc/sunlight-project-site/tree/main/pages',
+
   // ... other theme options
 };

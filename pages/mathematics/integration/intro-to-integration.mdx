@@ -1,3 +1,49 @@
 # Intro to integration
 
-$\frac{1}{2}$
+{' '}
+
+Find $$\int \cos^4 (x) dx$$ [1]
+
+This is by an eventing type integral so we can use $$\cos^2(x) = \frac{1}{2}(1+\cos(2x))$$
+
+So we can re-write [1] $$\int \frac{1}
+{4}(1+\cos(2x))^2 dx$$
+
+$$
+\int \frac{1}
+{4} (1 + 2 \cos(2x) + \cos^2(2x))dx
+$$
+
+next replace $$\cos^2(2x)$$
+
+$$
+\int \frac{1}
+{4} (1 + 2 \cos(2x) + \frac{1}
+{2} + \frac{1}
+{2} \cos(4x))dx
+$$
+
+$$
+\int \frac{3}
+{8} + \frac{1}
+{2}\cos(2x)+\frac{1}
+{8} \cos(4x) dx
+$$
+
+$$
+\int \frac{3}
+{8}x + \frac{1}
+{4}\cos(2x)+\frac{1}
+{32} \cos(4x) + C
+$$
+
+compare to $$\int \sin^4(x)dx$$
+
+$$
+\frac{3}
+{8} - \frac{1}
+{4} \sin(2x) - \frac{1}
+{32} \sin(4x) + C
+$$
+
+{' '}

@@ -1,1 +1,6 @@
-{ "electronics": { "title": "Electronics", "display": "hidden" } }
+{
+  "electronics": { "title": "Electronics", "display": "hidden" },
+  "intro-to-integration": "first",
+  "two": "after this",
+  "three": "then this"
+}
