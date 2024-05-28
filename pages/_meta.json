@@ -1,5 +1,12 @@
 {
   "index": { "title": "Home", "type": "page" },
+  "education": { "title": "Education", "type": "page" },
   "about": { "title": "About", "type": "page" },
-  "contact": { "title": "Contact", "type": "page" }
+  "contact": { "title": "Contact", "type": "page" },
+  "electronics": {
+    "title": "Electronics",
+    "display": "hidden",
+    "type": "page"
+  },
+  "mathematics": { "title": "Mathematics", "display": "hidden", "type": "page" }
 }
